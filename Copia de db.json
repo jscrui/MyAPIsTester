@@ -1,0 +1,43 @@
+{
+	"notes": [{
+		"noteStatus": 0,
+		"_id": "5ecd7b29d44c4441717b23d0",
+		"title": "Residuos",
+		"content": "a2",
+		"areaId": 1,
+		"subAreaId": "Residuos Domesticos",
+		"noteImage": "https://www.onlygfx.com/wp-content/uploads/2017/12/grunge-yes-no-icon-1-902x1024.png",
+		"latitude1": "-31.583120",
+		"longitude1": "-68.5708986",
+		"latitude2": "lat2",
+		"longitude2": "lon2",
+		"address1": "a1",
+		"subAddress1": "sa1",
+		"address2": "a2",
+		"subAddress2": "sa2",
+		"reportedByUser": "a@a.com",
+		"createdAt": "2020-05-26T20:25:13.679Z",
+		"updatedAt": "2020-05-26T20:25:13.679Z",
+		"__v": 0
+	}, {
+		"noteStatus": 0,
+		"_id": "5ecd7dcad44c4441717b23d1",
+		"title": "Residuos",
+		"content": "a2",
+		"areaId": 1,
+		"subAreaId": "Residuos Domesticos",
+		"noteImage": "https://www.onlygfx.com/wp-content/uploads/2017/12/grunge-yes-no-icon-1-902x1024.png",
+		"latitude1": "-31.583120",
+		"longitude1": "-68.5708986",
+		"latitude2": "lat2",
+		"longitude2": "lon2",
+		"address1": "a1",
+		"subAddress1": "sa1",
+		"address2": "a2",
+		"subAddress2": "sa2",
+		"reportedByUser": "a@a.com",
+		"createdAt": "2020-05-26T20:36:26.395Z",
+		"updatedAt": "2020-05-26T20:36:26.395Z",
+		"__v": 0
+	}]
+}
