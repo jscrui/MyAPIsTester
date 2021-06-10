@@ -48,5 +48,4945 @@
         "fraccion_correlativa": "",
         "tax_impo": "",
         "tax_expo": ""
+    },
+    {
+        "id": "6",
+        "pa": "0101.29.02",
+        "nico": "00",
+        "descripcion": "Sin pedigree, para reproducción.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0101.29.02",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "7",
+        "pa": "0101.29.03",
+        "nico": "00",
+        "descripcion": "Para abasto, cuando la importación la realicen empacadoras Tipo Inspección Federal.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0101.29.03",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "8",
+        "pa": "0101.29.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "9",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Para saltos o carreras.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0101.29.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "10",
+        "pa": "",
+        "nico": "99",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0101.29.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "11",
+        "pa": "0101.30",
+        "nico": "",
+        "descripcion": "Asnos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "12",
+        "pa": "0101.30.01",
+        "nico": "00",
+        "descripcion": "Asnos.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0101.30.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "13",
+        "pa": "0101.90",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "14",
+        "pa": "0101.90.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0101.90.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "15",
+        "pa": "01.02",
+        "nico": "",
+        "descripcion": "Animales vivos de la especie bovina.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "16",
+        "pa": "0102.2",
+        "nico": "",
+        "descripcion": "Bovinos domésticos:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "17",
+        "pa": "0102.21",
+        "nico": "",
+        "descripcion": "Reproductores de raza pura.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "18",
+        "pa": "0102.21.01",
+        "nico": "00",
+        "descripcion": "Reproductores de raza pura.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0102.21.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "19",
+        "pa": "0102.29",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "20",
+        "pa": "0102.29.01",
+        "nico": "00",
+        "descripcion": "Vacas lecheras.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0102.29.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "21",
+        "pa": "0102.29.02",
+        "nico": "00",
+        "descripcion": "Con pedigree o certificado de alto registro, excepto lo comprendido en la fracción arancelaria 0102.29.01.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0102.29.02",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "22",
+        "pa": "0102.29.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0102.29.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "23",
+        "pa": "0102.3",
+        "nico": "",
+        "descripcion": "Búfalos:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "24",
+        "pa": "0102.31",
+        "nico": "",
+        "descripcion": "Reproductores de raza pura.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "25",
+        "pa": "0102.31.01",
+        "nico": "00",
+        "descripcion": "Reproductores de raza pura.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0102.31.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "26",
+        "pa": "0102.39",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "27",
+        "pa": "0102.39.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0102.39.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "28",
+        "pa": "0102.90",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "29",
+        "pa": "0102.90.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0102.90.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "30",
+        "pa": "01.03",
+        "nico": "",
+        "descripcion": "Animales vivos de la especie porcina.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "31",
+        "pa": "0103.10",
+        "nico": "",
+        "descripcion": "Reproductores de raza pura.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "32",
+        "pa": "0103.10.01",
+        "nico": "00",
+        "descripcion": "Reproductores de raza pura.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0103.10.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "33",
+        "pa": "0103.9",
+        "nico": "",
+        "descripcion": "Los demás:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "34",
+        "pa": "0103.91",
+        "nico": "",
+        "descripcion": "De peso inferior a 50 kg.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "35",
+        "pa": "0103.91.01",
+        "nico": "00",
+        "descripcion": "Con pedigree o certificado de alto registro.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0103.91.01",
+        "tax_impo": "9",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "36",
+        "pa": "0103.91.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0103.91.99; 0103.91.02",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "37",
+        "pa": "0103.92",
+        "nico": "",
+        "descripcion": "De peso superior o igual a 50 kg.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "38",
+        "pa": "0103.92.01",
+        "nico": "00",
+        "descripcion": "Con pedigree o certificado de alto registro.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0103.92.01",
+        "tax_impo": "9",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "39",
+        "pa": "0103.92.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0103.92.99; 0103.92.02; 0103.92.03",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "40",
+        "pa": "01.04",
+        "nico": "",
+        "descripcion": "Animales vivos de las especies ovina o caprina.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "41",
+        "pa": "0104.10",
+        "nico": "",
+        "descripcion": "De la especie ovina.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "42",
+        "pa": "0104.10.01",
+        "nico": "00",
+        "descripcion": "Con pedigree o certificado de alto registro.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0104.10.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "43",
+        "pa": "0104.10.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "44",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Para abasto.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0104.10.02",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "45",
+        "pa": "",
+        "nico": "99",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0104.10.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "46",
+        "pa": "0104.20",
+        "nico": "",
+        "descripcion": "De la especie caprina.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "47",
+        "pa": "0104.20.01",
+        "nico": "00",
+        "descripcion": "Con pedigree o certificado de alto registro.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0104.20.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "48",
+        "pa": "0104.20.02",
+        "nico": "00",
+        "descripcion": "Borrego cimarrón.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0104.20.02",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "49",
+        "pa": "0104.20.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0104.20.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "50",
+        "pa": "01.05",
+        "nico": "",
+        "descripcion": "Gallos, gallinas, patos, gansos, pavos (gallipavos) y pintadas, de las especies domésticas, vivos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "51",
+        "pa": "0105.1",
+        "nico": "",
+        "descripcion": "De peso inferior o igual a 185 g:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "52",
+        "pa": "0105.11",
+        "nico": "",
+        "descripcion": "Aves de la especie Gallus domesticus.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "53",
+        "pa": "0105.11.03",
+        "nico": "",
+        "descripcion": "Recién nacidos, de tres días o menos.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "54",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Aves reproductoras de la línea de postura.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0105.11.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "55",
+        "pa": "",
+        "nico": "02",
+        "descripcion": "Aves reproductoras de la línea de engorda.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0105.11.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "56",
+        "pa": "",
+        "nico": "03",
+        "descripcion": "Aves progenitoras de la línea de engorda.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0105.11.01; 0105.11.02",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "57",
+        "pa": "",
+        "nico": "91",
+        "descripcion": "Las demás de postura.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0105.11.01; 0105.11.02",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "58",
+        "pa": "",
+        "nico": "92",
+        "descripcion": "Las demás de engorda.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0105.11.01; 0105.11.02",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "59",
+        "pa": "0105.11.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0105.11.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "60",
+        "pa": "0105.12",
+        "nico": "",
+        "descripcion": "Pavos (gallipavos).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "61",
+        "pa": "0105.12.01",
+        "nico": "00",
+        "descripcion": "Pavos (gallipavos).",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0105.12.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "62",
+        "pa": "0105.13",
+        "nico": "",
+        "descripcion": "Patos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "63",
+        "pa": "0105.13.01",
+        "nico": "00",
+        "descripcion": "Patos.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0105.13.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "64",
+        "pa": "0105.14",
+        "nico": "",
+        "descripcion": "Gansos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "65",
+        "pa": "0105.14.01",
+        "nico": "00",
+        "descripcion": "Gansos.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0105.14.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "66",
+        "pa": "0105.15",
+        "nico": "",
+        "descripcion": "Pintadas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "67",
+        "pa": "0105.15.01",
+        "nico": "00",
+        "descripcion": "Pintadas.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0105.15.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "68",
+        "pa": "0105.9",
+        "nico": "",
+        "descripcion": "Los demás:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "69",
+        "pa": "0105.94",
+        "nico": "",
+        "descripcion": "Aves de la especie Gallus domesticus.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "70",
+        "pa": "0105.94.01",
+        "nico": "00",
+        "descripcion": "Gallos de pelea.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0105.94.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "71",
+        "pa": "0105.94.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0105.94.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "72",
+        "pa": "0105.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "73",
+        "pa": "0105.99.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0105.99.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "74",
+        "pa": "01.06",
+        "nico": "",
+        "descripcion": "Los demás animales vivos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "75",
+        "pa": "0106.1",
+        "nico": "",
+        "descripcion": "Mamíferos:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "76",
+        "pa": "0106.11",
+        "nico": "",
+        "descripcion": "Primates.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "77",
+        "pa": "0106.11.01",
+        "nico": "00",
+        "descripcion": "Monos (simios) de las variedades Macacus rhesus o Macacus cercophitecus.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.11.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "78",
+        "pa": "0106.11.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.11.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "79",
+        "pa": "0106.12",
+        "nico": "",
+        "descripcion": "Ballenas, delfines y marsopas (mamíferos del orden Cetacea); manatíes y dugones o dugongos (mamíferos del orden Sirenia); otarios y focas, leones marinos y morsas (mamíferos del suborden Pinnipedia).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "80",
+        "pa": "0106.12.01",
+        "nico": "00",
+        "descripcion": "Ballenas, delfines y marsopas (mamíferos del orden Cetacea); manatíes y dugones o dugongos (mamíferos del orden Sirenia); otarios y focas, leones marinos y morsas (mamíferos del suborden Pinnipedia).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.12.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "81",
+        "pa": "0106.13",
+        "nico": "",
+        "descripcion": "Camellos y demás camélidos (Camelidae).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "82",
+        "pa": "0106.13.01",
+        "nico": "00",
+        "descripcion": "Camellos y demás camélidos (Camelidae).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.13.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "83",
+        "pa": "0106.14",
+        "nico": "",
+        "descripcion": "Conejos y liebres.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "84",
+        "pa": "0106.14.01",
+        "nico": "00",
+        "descripcion": "Conejos y liebres.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.14.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "85",
+        "pa": "0106.19",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "86",
+        "pa": "0106.19.02",
+        "nico": "00",
+        "descripcion": "Venado rojo (Cervus elaphus); gamo (Dama dama).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.19.02",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "87",
+        "pa": "0106.19.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "88",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Perros.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0106.19.03",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "89",
+        "pa": "",
+        "nico": "99",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0106.19.99; 0106.19.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "90",
+        "pa": "0106.20",
+        "nico": "",
+        "descripcion": "Reptiles (incluidas las serpientes y tortugas de mar).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "91",
+        "pa": "0106.20.04",
+        "nico": "00",
+        "descripcion": "Reptiles (incluidas las serpientes y tortugas de mar).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.20.01; 0106.20.02; 0106.20.03; 0106.20.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "92",
+        "pa": "0106.3",
+        "nico": "",
+        "descripcion": "Aves:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "93",
+        "pa": "0106.31",
+        "nico": "",
+        "descripcion": "Aves de rapiña.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "94",
+        "pa": "0106.31.01",
+        "nico": "00",
+        "descripcion": "Aves de rapiña.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0106.31.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "95",
+        "pa": "0106.32",
+        "nico": "",
+        "descripcion": "Psitaciformes (incluidos los loros, guacamayos, cacatúas y demás papagayos).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "96",
+        "pa": "0106.32.01",
+        "nico": "00",
+        "descripcion": "Psitaciformes (incluidos los loros, guacamayos, cacatúas y demás papagayos).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.32.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "97",
+        "pa": "0106.33",
+        "nico": "",
+        "descripcion": "Avestruces; emúes (Dromaius novaehollandiae).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "98",
+        "pa": "0106.33.01",
+        "nico": "00",
+        "descripcion": "Avestruces; emúes (Dromaius novaehollandiae).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.33.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "99",
+        "pa": "0106.39",
+        "nico": "",
+        "descripcion": "Las demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "100",
+        "pa": "0106.39.99",
+        "nico": "00",
+        "descripcion": "Las demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0106.39.99; 0106.39.01; 0106.39.02",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "101",
+        "pa": "0106.4",
+        "nico": "",
+        "descripcion": "Insectos:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "102",
+        "pa": "0106.41",
+        "nico": "",
+        "descripcion": "Abejas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "103",
+        "pa": "0106.41.01",
+        "nico": "00",
+        "descripcion": "Abejas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0106.41.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "104",
+        "pa": "0106.49",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "105",
+        "pa": "0106.49.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0106.49.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "106",
+        "pa": "0106.90",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "107",
+        "pa": "0106.90.02",
+        "nico": "00",
+        "descripcion": "Lombriz Rebellus.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0106.90.02",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "108",
+        "pa": "0106.90.03",
+        "nico": "00",
+        "descripcion": "Lombriz acuática.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0106.90.03",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "109",
+        "pa": "0106.90.04",
+        "nico": "00",
+        "descripcion": "Ácaros Phytoseiulus persimilis.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0106.90.04",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "110",
+        "pa": "0106.90.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Pza",
+        "fraccion_correlativa": "0106.90.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "111",
+        "pa": "02.01",
+        "nico": "",
+        "descripcion": "Carne de animales de la especie bovina, fresca o refrigerada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "112",
+        "pa": "0201.10",
+        "nico": "",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "113",
+        "pa": "0201.10.01",
+        "nico": "00",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0201.10.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "114",
+        "pa": "0201.20",
+        "nico": "",
+        "descripcion": "Los demás cortes (trozos) sin deshuesar.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "115",
+        "pa": "0201.20.99",
+        "nico": "00",
+        "descripcion": "Los demás cortes (trozos) sin deshuesar.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0201.20.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "116",
+        "pa": "0201.30",
+        "nico": "",
+        "descripcion": "Deshuesada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "117",
+        "pa": "0201.30.01",
+        "nico": "00",
+        "descripcion": "Deshuesada.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0201.30.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "118",
+        "pa": "02.02",
+        "nico": "",
+        "descripcion": "Carne de animales de la especie bovina, congelada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "119",
+        "pa": "0202.10",
+        "nico": "",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "120",
+        "pa": "0202.10.01",
+        "nico": "00",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0202.10.01",
+        "tax_impo": "25",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "121",
+        "pa": "0202.20",
+        "nico": "",
+        "descripcion": "Los demás cortes (trozos) sin deshuesar.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "122",
+        "pa": "0202.20.99",
+        "nico": "00",
+        "descripcion": "Los demás cortes (trozos) sin deshuesar.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0202.20.99",
+        "tax_impo": "25",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "123",
+        "pa": "0202.30",
+        "nico": "",
+        "descripcion": "Deshuesada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "124",
+        "pa": "0202.30.01",
+        "nico": "00",
+        "descripcion": "Deshuesada.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0202.30.01",
+        "tax_impo": "25",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "125",
+        "pa": "02.03",
+        "nico": "",
+        "descripcion": "Carne de animales de la especie porcina, fresca, refrigerada o congelada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "126",
+        "pa": "0203.1",
+        "nico": "",
+        "descripcion": "Fresca o refrigerada:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "127",
+        "pa": "0203.11",
+        "nico": "",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "128",
+        "pa": "0203.11.01",
+        "nico": "00",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0203.11.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "129",
+        "pa": "0203.12",
+        "nico": "",
+        "descripcion": "Piernas, paletas, y sus trozos, sin deshuesar.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "130",
+        "pa": "0203.12.01",
+        "nico": "",
+        "descripcion": "Piernas, paletas, y sus trozos, sin deshuesar.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "131",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Paletas y sus trozos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0203.12.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "132",
+        "pa": "",
+        "nico": "02",
+        "descripcion": "Piernas y sus trozos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0203.12.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "133",
+        "pa": "0203.19",
+        "nico": "",
+        "descripcion": "Las demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "134",
+        "pa": "0203.19.99",
+        "nico": "00",
+        "descripcion": "Las demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0203.19.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "135",
+        "pa": "0203.2",
+        "nico": "",
+        "descripcion": "Congelada:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "136",
+        "pa": "0203.21",
+        "nico": "",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "137",
+        "pa": "0203.21.01",
+        "nico": "00",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0203.21.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "138",
+        "pa": "0203.22",
+        "nico": "",
+        "descripcion": "Piernas, paletas, y sus trozos, sin deshuesar.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "139",
+        "pa": "0203.22.01",
+        "nico": "",
+        "descripcion": "Piernas, paletas, y sus trozos, sin deshuesar.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "140",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Paletas y sus trozos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0203.22.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "141",
+        "pa": "",
+        "nico": "02",
+        "descripcion": "Piernas y sus trozos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0203.22.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "142",
+        "pa": "0203.29",
+        "nico": "",
+        "descripcion": "Las demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "143",
+        "pa": "0203.29.99",
+        "nico": "00",
+        "descripcion": "Las demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0203.29.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "144",
+        "pa": "02.04",
+        "nico": "",
+        "descripcion": "Carne de animales de las especies ovina o caprina, fresca, refrigerada o congelada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "145",
+        "pa": "0204.10",
+        "nico": "",
+        "descripcion": "Canales o medias canales de cordero, frescas o refrigeradas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "146",
+        "pa": "0204.10.01",
+        "nico": "00",
+        "descripcion": "Canales o medias canales de cordero, frescas o refrigeradas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.10.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "147",
+        "pa": "0204.2",
+        "nico": "",
+        "descripcion": "Las demás carnes de animales de la especie ovina, frescas o refrigeradas:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "148",
+        "pa": "0204.21",
+        "nico": "",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "149",
+        "pa": "0204.21.01",
+        "nico": "00",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.21.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "150",
+        "pa": "0204.22",
+        "nico": "",
+        "descripcion": "Los demás cortes (trozos) sin deshuesar.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "151",
+        "pa": "0204.22.99",
+        "nico": "00",
+        "descripcion": "Los demás cortes (trozos) sin deshuesar.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.22.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "152",
+        "pa": "0204.23",
+        "nico": "",
+        "descripcion": "Deshuesadas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "153",
+        "pa": "0204.23.01",
+        "nico": "00",
+        "descripcion": "Deshuesadas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.23.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "154",
+        "pa": "0204.30",
+        "nico": "",
+        "descripcion": "Canales o medias canales de cordero, congeladas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "155",
+        "pa": "0204.30.01",
+        "nico": "00",
+        "descripcion": "Canales o medias canales de cordero, congeladas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.30.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "156",
+        "pa": "0204.4",
+        "nico": "",
+        "descripcion": "Las demás carnes de animales de la especie ovina, congeladas:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "157",
+        "pa": "0204.41",
+        "nico": "",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "158",
+        "pa": "0204.41.01",
+        "nico": "00",
+        "descripcion": "En canales o medias canales.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.41.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "159",
+        "pa": "0204.42",
+        "nico": "",
+        "descripcion": "Los demás cortes (trozos) sin deshuesar.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "160",
+        "pa": "0204.42.99",
+        "nico": "00",
+        "descripcion": "Los demás cortes (trozos) sin deshuesar.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.42.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "161",
+        "pa": "0204.43",
+        "nico": "",
+        "descripcion": "Deshuesadas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "162",
+        "pa": "0204.43.01",
+        "nico": "00",
+        "descripcion": "Deshuesadas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.43.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "163",
+        "pa": "0204.50",
+        "nico": "",
+        "descripcion": "Carne de animales de la especie caprina.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "164",
+        "pa": "0204.50.01",
+        "nico": "00",
+        "descripcion": "Carne de animales de la especie caprina.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0204.50.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "165",
+        "pa": "02.05",
+        "nico": "",
+        "descripcion": "Carne de animales de las especies caballar, asnal o mular, fresca, refrigerada o congelada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "166",
+        "pa": "0205.00",
+        "nico": "",
+        "descripcion": "Carne de animales de las especies caballar, asnal o mular, fresca, refrigerada o congelada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "167",
+        "pa": "0205.00.01",
+        "nico": "00",
+        "descripcion": "Carne de animales de las especies caballar, asnal o mular, fresca, refrigerada o congelada.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0205.00.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "168",
+        "pa": "02.06",
+        "nico": "",
+        "descripcion": "Despojos comestibles de animales de las especies bovina, porcina, ovina, caprina, caballar, asnal o mular, frescos, refrigerados o congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "169",
+        "pa": "0206.10",
+        "nico": "",
+        "descripcion": "De la especie bovina, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "170",
+        "pa": "0206.10.01",
+        "nico": "00",
+        "descripcion": "De la especie bovina, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.10.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "171",
+        "pa": "0206.2",
+        "nico": "",
+        "descripcion": "De la especie bovina, congelados:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "172",
+        "pa": "0206.21",
+        "nico": "",
+        "descripcion": "Lenguas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "173",
+        "pa": "0206.21.01",
+        "nico": "00",
+        "descripcion": "Lenguas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.21.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "174",
+        "pa": "0206.22",
+        "nico": "",
+        "descripcion": "Hígados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "175",
+        "pa": "0206.22.01",
+        "nico": "00",
+        "descripcion": "Hígados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.22.01",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "176",
+        "pa": "0206.29",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "177",
+        "pa": "0206.29.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.29.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "178",
+        "pa": "0206.30",
+        "nico": "",
+        "descripcion": "De la especie porcina, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "179",
+        "pa": "0206.30.01",
+        "nico": "00",
+        "descripcion": "Pieles de cerdo enteras o en recortes, refrigerados, excepto el cuero precocido en trozos (\"pellets\").",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.30.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "180",
+        "pa": "0206.30.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.30.99",
+        "tax_impo": "20",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "181",
+        "pa": "0206.4",
+        "nico": "",
+        "descripcion": "De la especie porcina, congelados:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "182",
+        "pa": "0206.41",
+        "nico": "",
+        "descripcion": "Hígados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "183",
+        "pa": "0206.41.01",
+        "nico": "00",
+        "descripcion": "Hígados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.41.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "184",
+        "pa": "0206.49",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "185",
+        "pa": "0206.49.01",
+        "nico": "00",
+        "descripcion": "Pieles de cerdo enteras o en recortes, excepto el cuero precocido en trozos (\"pellets\").",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.49.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "186",
+        "pa": "0206.49.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.49.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "187",
+        "pa": "0206.80",
+        "nico": "",
+        "descripcion": "Los demás, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "188",
+        "pa": "0206.80.99",
+        "nico": "00",
+        "descripcion": "Los demás, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.80.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "189",
+        "pa": "0206.90",
+        "nico": "",
+        "descripcion": "Los demás, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "190",
+        "pa": "0206.90.99",
+        "nico": "00",
+        "descripcion": "Los demás, congelados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0206.90.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "191",
+        "pa": "02.07",
+        "nico": "",
+        "descripcion": "Carne y despojos comestibles, de aves de la partida 01.05, frescos, refrigerados o congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "192",
+        "pa": "0207.1",
+        "nico": "",
+        "descripcion": "De aves de la especie Gallus domesticus:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "193",
+        "pa": "0207.11",
+        "nico": "",
+        "descripcion": "Sin trocear, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "194",
+        "pa": "0207.11.01",
+        "nico": "00",
+        "descripcion": "Sin trocear, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.11.01",
+        "tax_impo": "75",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "195",
+        "pa": "0207.12",
+        "nico": "",
+        "descripcion": "Sin trocear, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "196",
+        "pa": "0207.12.01",
+        "nico": "00",
+        "descripcion": "Sin trocear, congelados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.12.01",
+        "tax_impo": "75",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "197",
+        "pa": "0207.13",
+        "nico": "",
+        "descripcion": "Trozos y despojos, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "198",
+        "pa": "0207.13.04",
+        "nico": "",
+        "descripcion": "Trozos y despojos, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "",
+        "tax_impo": "75",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "199",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Mecánicamente deshuesados (pastas).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.13.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "200",
+        "pa": "",
+        "nico": "02",
+        "descripcion": "Carcazas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.13.02",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "201",
+        "pa": "",
+        "nico": "03",
+        "descripcion": "Piernas, muslos o piernas unidas al muslo.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.13.03",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "202",
+        "pa": "",
+        "nico": "04",
+        "descripcion": "Alas y sus partes.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.13.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "203",
+        "pa": "",
+        "nico": "05",
+        "descripcion": "Pechuga, sus trozos y recortes, con hueso.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.13.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "204",
+        "pa": "",
+        "nico": "06",
+        "descripcion": "Filetes de pechuga y pechuga, sus trozos y recortes, sin hueso (deshuesada).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.13.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "205",
+        "pa": "",
+        "nico": "99",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.13.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "206",
+        "pa": "0207.14",
+        "nico": "",
+        "descripcion": "Trozos y despojos, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "207",
+        "pa": "0207.14.02",
+        "nico": "00",
+        "descripcion": "Hígados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.14.02",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "208",
+        "pa": "0207.14.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "",
+        "tax_impo": "75",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "209",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Mecánicamente deshuesados (pastas).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.14.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "210",
+        "pa": "",
+        "nico": "02",
+        "descripcion": "Piernas, muslos o piernas unidas al muslo.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.14.04",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "211",
+        "pa": "",
+        "nico": "03",
+        "descripcion": "Alas y sus partes.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.14.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "212",
+        "pa": "",
+        "nico": "04",
+        "descripcion": "Pechuga, sus trozos y recortes, con hueso.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.14.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "213",
+        "pa": "",
+        "nico": "05",
+        "descripcion": "Filetes de pechuga y pechuga, sus trozos y recortes, sin hueso (deshuesada).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.14.99",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "214",
+        "pa": "",
+        "nico": "99",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.14.99; 0207.14.03",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "215",
+        "pa": "0207.2",
+        "nico": "",
+        "descripcion": "De pavo (gallipavo):",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "216",
+        "pa": "0207.24",
+        "nico": "",
+        "descripcion": "Sin trocear, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "217",
+        "pa": "0207.24.01",
+        "nico": "00",
+        "descripcion": "Sin trocear, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.24.01",
+        "tax_impo": "45",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "218",
+        "pa": "0207.25",
+        "nico": "",
+        "descripcion": "Sin trocear, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "219",
+        "pa": "0207.25.01",
+        "nico": "00",
+        "descripcion": "Sin trocear, congelados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.25.01",
+        "tax_impo": "45",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "220",
+        "pa": "0207.26",
+        "nico": "",
+        "descripcion": "Trozos y despojos, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "221",
+        "pa": "0207.26.03",
+        "nico": "",
+        "descripcion": "Trozos y despojos, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "",
+        "tax_impo": "75",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "222",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Mecánicamente deshuesados (pastas).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.26.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "223",
+        "pa": "",
+        "nico": "99",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.26.99; 0207.26.02",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "224",
+        "pa": "0207.27",
+        "nico": "",
+        "descripcion": "Trozos y despojos, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "225",
+        "pa": "0207.27.02",
+        "nico": "00",
+        "descripcion": "Hígados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.27.02",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "226",
+        "pa": "0207.27.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "",
+        "tax_impo": "75",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "227",
+        "pa": "",
+        "nico": "01",
+        "descripcion": "Mecánicamente deshuesados (pastas).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.27.01",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "228",
+        "pa": "",
+        "nico": "99",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "0207.27.99; 0207.27.03",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "229",
+        "pa": "0207.4",
+        "nico": "",
+        "descripcion": "De pato:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "230",
+        "pa": "0207.41",
+        "nico": "",
+        "descripcion": "Sin trocear, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "231",
+        "pa": "0207.41.01",
+        "nico": "00",
+        "descripcion": "Sin trocear, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.41.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "232",
+        "pa": "0207.42",
+        "nico": "",
+        "descripcion": "Sin trocear, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "233",
+        "pa": "0207.42.01",
+        "nico": "00",
+        "descripcion": "Sin trocear, congelados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.42.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "234",
+        "pa": "0207.43",
+        "nico": "",
+        "descripcion": "Hígados grasos, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "235",
+        "pa": "0207.43.01",
+        "nico": "00",
+        "descripcion": "Hígados grasos, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.43.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "236",
+        "pa": "0207.44",
+        "nico": "",
+        "descripcion": "Los demás, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "237",
+        "pa": "0207.44.01",
+        "nico": "00",
+        "descripcion": "Los demás, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.44.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "238",
+        "pa": "0207.45",
+        "nico": "",
+        "descripcion": "Los demás, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "239",
+        "pa": "0207.45.01",
+        "nico": "00",
+        "descripcion": "Hígados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.45.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "240",
+        "pa": "0207.45.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.45.99",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "241",
+        "pa": "0207.5",
+        "nico": "",
+        "descripcion": "De ganso:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "242",
+        "pa": "0207.51",
+        "nico": "",
+        "descripcion": "Sin trocear, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "243",
+        "pa": "0207.51.01",
+        "nico": "00",
+        "descripcion": "Sin trocear, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.51.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "244",
+        "pa": "0207.52",
+        "nico": "",
+        "descripcion": "Sin trocear, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "245",
+        "pa": "0207.52.01",
+        "nico": "00",
+        "descripcion": "Sin trocear, congelados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.52.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "246",
+        "pa": "0207.53",
+        "nico": "",
+        "descripcion": "Hígados grasos, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "247",
+        "pa": "0207.53.01",
+        "nico": "00",
+        "descripcion": "Hígados grasos, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.53.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "248",
+        "pa": "0207.54",
+        "nico": "",
+        "descripcion": "Los demás, frescos o refrigerados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "249",
+        "pa": "0207.54.01",
+        "nico": "00",
+        "descripcion": "Los demás, frescos o refrigerados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.54.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "250",
+        "pa": "0207.55",
+        "nico": "",
+        "descripcion": "Los demás, congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "251",
+        "pa": "0207.55.01",
+        "nico": "00",
+        "descripcion": "Hígados.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.55.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "252",
+        "pa": "0207.55.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.55.99",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "253",
+        "pa": "0207.60",
+        "nico": "",
+        "descripcion": "De pintada.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "254",
+        "pa": "0207.60.03",
+        "nico": "00",
+        "descripcion": "De pintada.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0207.60.01; 0207.60.02; 0207.60.99",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "255",
+        "pa": "02.08",
+        "nico": "",
+        "descripcion": "Las demás carnes y despojos comestibles, frescos, refrigerados o congelados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "256",
+        "pa": "0208.10",
+        "nico": "",
+        "descripcion": "De conejo o liebre.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "257",
+        "pa": "0208.10.01",
+        "nico": "00",
+        "descripcion": "De conejo o liebre.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0208.10.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "258",
+        "pa": "0208.30",
+        "nico": "",
+        "descripcion": "De primates.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "259",
+        "pa": "0208.30.01",
+        "nico": "00",
+        "descripcion": "De primates.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0208.30.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "260",
+        "pa": "0208.40",
+        "nico": "",
+        "descripcion": "De ballenas, delfines y marsopas (mamíferos del orden Cetacea); manatíes y dugones o dugongos (mamíferos del orden Sirenia); otarios y focas, leones marinos y morsas (mamíferos del suborden Pinnipedia).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "261",
+        "pa": "0208.40.01",
+        "nico": "00",
+        "descripcion": "De ballenas, delfines y marsopas (mamíferos del orden Cetacea); manatíes y dugones o dugongos (mamíferos del orden Sirenia); otarios y focas, leones marinos y morsas (mamíferos del suborden Pinnipedia).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0208.40.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "262",
+        "pa": "0208.50",
+        "nico": "",
+        "descripcion": "De reptiles (incluidas las serpientes y tortugas de mar).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "263",
+        "pa": "0208.50.01",
+        "nico": "00",
+        "descripcion": "De reptiles (incluidas las serpientes y tortugas de mar).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0208.50.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "264",
+        "pa": "0208.60",
+        "nico": "",
+        "descripcion": "De camellos y demás camélidos (Camelidae).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "265",
+        "pa": "0208.60.01",
+        "nico": "00",
+        "descripcion": "De camellos y demás camélidos (Camelidae).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0208.60.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "266",
+        "pa": "0208.90",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "267",
+        "pa": "0208.90.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0208.90.99; 0208.90.01; 0208.90.02",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "268",
+        "pa": "02.09",
+        "nico": "",
+        "descripcion": "Tocino sin partes magras y grasa de cerdo o de ave sin fundir ni extraer de otro modo, frescos, refrigerados, congelados, salados o en salmuera, secos o ahumados.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "269",
+        "pa": "0209.10",
+        "nico": "",
+        "descripcion": "De cerdo.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "270",
+        "pa": "0209.10.01",
+        "nico": "00",
+        "descripcion": "De cerdo.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0209.10.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "271",
+        "pa": "0209.90",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "272",
+        "pa": "0209.90.01",
+        "nico": "00",
+        "descripcion": "De gallo, gallina o pavo (gallipavo).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0209.90.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "273",
+        "pa": "0209.90.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0209.90.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "274",
+        "pa": "02.10",
+        "nico": "",
+        "descripcion": "Carne y despojos comestibles, salados o en salmuera, secos o ahumados; harina y polvo comestibles, de carne o de despojos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "275",
+        "pa": "0210.1",
+        "nico": "",
+        "descripcion": "Carne de la especie porcina:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "276",
+        "pa": "0210.11",
+        "nico": "",
+        "descripcion": "Jamones, paletas, y sus trozos, sin deshuesar.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "277",
+        "pa": "0210.11.01",
+        "nico": "00",
+        "descripcion": "Jamones, paletas, y sus trozos, sin deshuesar.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.11.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "278",
+        "pa": "0210.12",
+        "nico": "",
+        "descripcion": "Tocino entreverado de panza (panceta) y sus trozos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "279",
+        "pa": "0210.12.01",
+        "nico": "00",
+        "descripcion": "Tocino entreverado de panza (panceta) y sus trozos.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.12.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "280",
+        "pa": "0210.19",
+        "nico": "",
+        "descripcion": "Las demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "281",
+        "pa": "0210.19.99",
+        "nico": "00",
+        "descripcion": "Las demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.19.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "282",
+        "pa": "0210.20",
+        "nico": "",
+        "descripcion": "Carne de la especie bovina.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "283",
+        "pa": "0210.20.01",
+        "nico": "00",
+        "descripcion": "Carne de la especie bovina.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.20.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "284",
+        "pa": "0210.9",
+        "nico": "",
+        "descripcion": "Los demás, incluidos la harina y polvo comestibles, de carne o de despojos:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "285",
+        "pa": "0210.91",
+        "nico": "",
+        "descripcion": "De primates.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "286",
+        "pa": "0210.91.01",
+        "nico": "00",
+        "descripcion": "De primates.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.91.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "287",
+        "pa": "0210.92",
+        "nico": "",
+        "descripcion": "De ballenas, delfines y marsopas (mamíferos del orden Cetacea); manatíes y dugones o dugongos (mamíferos del orden Sirenia); otarios y focas, leones marinos y morsas (mamíferos del suborden Pinnipedia).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "288",
+        "pa": "0210.92.01",
+        "nico": "00",
+        "descripcion": "De ballenas, delfines y marsopas (mamíferos del orden Cetacea); manatíes y dugones o dugongos (mamíferos del orden Sirenia); otarios y focas, leones marinos y morsas (mamíferos del suborden Pinnipedia).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.92.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "289",
+        "pa": "0210.93",
+        "nico": "",
+        "descripcion": "De reptiles (incluidas las serpientes y tortugas de mar).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "290",
+        "pa": "0210.93.01",
+        "nico": "00",
+        "descripcion": "De reptiles (incluidas las serpientes y tortugas de mar).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.93.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "291",
+        "pa": "0210.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "292",
+        "pa": "0210.99.02",
+        "nico": "00",
+        "descripcion": "Pieles de cerdo ahumadas, enteras o en recortes.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.99.02",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "293",
+        "pa": "0210.99.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0210.99.99; 0210.99.01; 0210.99.03",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "294",
+        "pa": "03.01",
+        "nico": "",
+        "descripcion": "Peces vivos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "295",
+        "pa": "0301.1",
+        "nico": "",
+        "descripcion": "Peces ornamentales:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "296",
+        "pa": "0301.11",
+        "nico": "",
+        "descripcion": "De agua dulce.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "297",
+        "pa": "0301.11.01",
+        "nico": "00",
+        "descripcion": "De agua dulce.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0301.11.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "298",
+        "pa": "0301.19",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "299",
+        "pa": "0301.19.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0301.19.99",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "300",
+        "pa": "0301.9",
+        "nico": "",
+        "descripcion": "Los demás peces vivos:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "301",
+        "pa": "0301.91",
+        "nico": "",
+        "descripcion": "Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "302",
+        "pa": "0301.91.01",
+        "nico": "00",
+        "descripcion": "Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0301.91.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "303",
+        "pa": "0301.92",
+        "nico": "",
+        "descripcion": "Anguilas (Anguilla spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "304",
+        "pa": "0301.92.01",
+        "nico": "00",
+        "descripcion": "Anguilas (Anguilla spp.).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0301.92.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "305",
+        "pa": "0301.93",
+        "nico": "",
+        "descripcion": "Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "306",
+        "pa": "0301.93.01",
+        "nico": "00",
+        "descripcion": "Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0301.93.01; 0301.99.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "307",
+        "pa": "0301.94",
+        "nico": "",
+        "descripcion": "Atunes comunes o de aleta azul, del Atlántico y del Pacífico (Thunnus thynnus, Thunnus orientalis).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "308",
+        "pa": "0301.94.01",
+        "nico": "00",
+        "descripcion": "Atunes comunes o de aleta azul, del Atlántico y del Pacífico (Thunnus thynnus, Thunnus orientalis).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0301.94.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "309",
+        "pa": "0301.95",
+        "nico": "",
+        "descripcion": "Atunes del sur (Thunnus maccoyii).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "310",
+        "pa": "0301.95.01",
+        "nico": "00",
+        "descripcion": "Atunes del sur (Thunnus maccoyii).",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0301.95.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "311",
+        "pa": "0301.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "312",
+        "pa": "0301.99.01",
+        "nico": "",
+        "descripcion": "Depredadores, en sus estados de alevines, juveniles y adultos.",
+        "unidad_medida": "Prohibida",
+        "fraccion_correlativa": "0301.99.01",
+        "tax_impo": "Prohibida",
+        "tax_expo": "Prohibida"
+    },
+    {
+        "id": "313",
+        "pa": "0301.99.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Cbza",
+        "fraccion_correlativa": "0301.99.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "314",
+        "pa": "03.02",
+        "nico": "",
+        "descripcion": "Pescado fresco o refrigerado, excepto los filetes y demás carne de pescado de la partida 03.04.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "315",
+        "pa": "0302.1",
+        "nico": "",
+        "descripcion": "Salmónidos, excepto los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "316",
+        "pa": "0302.11",
+        "nico": "",
+        "descripcion": "Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "317",
+        "pa": "0302.11.01",
+        "nico": "00",
+        "descripcion": "Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.11.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "318",
+        "pa": "0302.13",
+        "nico": "",
+        "descripcion": "Salmones del Pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y Oncorhynchus rhodurus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "319",
+        "pa": "0302.13.01",
+        "nico": "00",
+        "descripcion": "Salmones del Pacífico (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y Oncorhynchus rhodurus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.13.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "320",
+        "pa": "0302.14",
+        "nico": "",
+        "descripcion": "Salmones del Atlántico (Salmo salar) y salmones del Danubio (Hucho hucho).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "321",
+        "pa": "0302.14.01",
+        "nico": "00",
+        "descripcion": "Salmones del Atlántico (Salmo salar) y salmones del Danubio (Hucho hucho).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.14.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "322",
+        "pa": "0302.19",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "323",
+        "pa": "0302.19.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.19.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "324",
+        "pa": "0302.2",
+        "nico": "",
+        "descripcion": "Pescados planos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae y Citharidae), excepto los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "325",
+        "pa": "0302.21",
+        "nico": "",
+        "descripcion": "Fletanes (halibut) (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "326",
+        "pa": "0302.21.01",
+        "nico": "00",
+        "descripcion": "Fletanes (halibut) (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.21.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "327",
+        "pa": "0302.22",
+        "nico": "",
+        "descripcion": "Sollas (Pleuronectes platessa).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "328",
+        "pa": "0302.22.01",
+        "nico": "00",
+        "descripcion": "Sollas (Pleuronectes platessa).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.22.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "329",
+        "pa": "0302.23",
+        "nico": "",
+        "descripcion": "Lenguados (Solea spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "330",
+        "pa": "0302.23.01",
+        "nico": "00",
+        "descripcion": "Lenguados (Solea spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.23.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "331",
+        "pa": "0302.24",
+        "nico": "",
+        "descripcion": "Rodaballos (turbots) (Psetta maxima).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "332",
+        "pa": "0302.24.01",
+        "nico": "00",
+        "descripcion": "Rodaballos (turbots) (Psetta maxima).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.24.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "333",
+        "pa": "0302.29",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "334",
+        "pa": "0302.29.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.29.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "335",
+        "pa": "0302.3",
+        "nico": "",
+        "descripcion": "Atunes (del género Thunnus), listados o bonitos de vientre rayado (Euthynnus (Katsuwonus) pelamis), excepto los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "336",
+        "pa": "0302.31",
+        "nico": "",
+        "descripcion": "Albacoras o atunes blancos (Thunnus alalunga).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "337",
+        "pa": "0302.31.01",
+        "nico": "00",
+        "descripcion": "Albacoras o atunes blancos (Thunnus alalunga).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.31.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "338",
+        "pa": "0302.32",
+        "nico": "",
+        "descripcion": "Atunes de aleta amarilla (rabiles) (Thunnus albacares).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "339",
+        "pa": "0302.32.01",
+        "nico": "00",
+        "descripcion": "Atunes de aleta amarilla (rabiles) (Thunnus albacares).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.32.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "340",
+        "pa": "0302.33",
+        "nico": "",
+        "descripcion": "Listados o bonitos de vientre rayado.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "341",
+        "pa": "0302.33.01",
+        "nico": "00",
+        "descripcion": "Listados o bonitos de vientre rayado.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.33.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "342",
+        "pa": "0302.34",
+        "nico": "",
+        "descripcion": "Patudos o atunes ojo grande (Thunnus obesus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "343",
+        "pa": "0302.34.01",
+        "nico": "00",
+        "descripcion": "Patudos o atunes ojo grande (Thunnus obesus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.34.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "344",
+        "pa": "0302.35",
+        "nico": "",
+        "descripcion": "Atunes comunes o de aleta azul, del Atlántico y del Pacífico (Thunnus thynnus, Thunnus orientalis).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "345",
+        "pa": "0302.35.01",
+        "nico": "00",
+        "descripcion": "Atunes comunes o de aleta azul, del Atlántico y del Pacífico (Thunnus thynnus, Thunnus orientalis).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.35.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "346",
+        "pa": "0302.36",
+        "nico": "",
+        "descripcion": "Atunes del sur (Thunnus maccoyii).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "347",
+        "pa": "0302.36.01",
+        "nico": "00",
+        "descripcion": "Atunes del sur (Thunnus maccoyii).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.36.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "348",
+        "pa": "0302.39",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "349",
+        "pa": "0302.39.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.39.99",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "350",
+        "pa": "0302.4",
+        "nico": "",
+        "descripcion": "Arenques (Clupea harengus, Clupea pallasii), anchoas (Engraulis spp.), sardinas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.), espadines (Sprattus sprattus), caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus), caballas de la India (Rastrelliger spp.), carites (Scomberomorus spp.), jureles (Trachurus spp.), pámpanos (Caranx spp.), cobias (Rachycentron canadum), palometones plateados (Pampus spp.), papardas del Pacífico (Cololabis saira), macarelas (Decapterus spp.), capelanes (Mallotus villosus), peces espada (Xiphias gladius), bacoretas orientales (Euthynnus affinis), bonitos (Sarda spp.), agujas, marlines, peces vela o picudos (Istiophoridae), excepto los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "351",
+        "pa": "0302.41",
+        "nico": "",
+        "descripcion": "Arenques (Clupea harengus, Clupea pallasii).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "352",
+        "pa": "0302.41.01",
+        "nico": "00",
+        "descripcion": "Arenques (Clupea harengus, Clupea pallasii).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.41.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "353",
+        "pa": "0302.42",
+        "nico": "",
+        "descripcion": "Anchoas (Engraulis spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "354",
+        "pa": "0302.42.01",
+        "nico": "00",
+        "descripcion": "Anchoas (Engraulis spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.42.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "355",
+        "pa": "0302.43",
+        "nico": "",
+        "descripcion": "Sardinas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) y espadines (Sprattus sprattus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "356",
+        "pa": "0302.43.01",
+        "nico": "00",
+        "descripcion": "Sardinas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) y espadines (Sprattus sprattus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.43.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "357",
+        "pa": "0302.44",
+        "nico": "",
+        "descripcion": "Caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "358",
+        "pa": "0302.44.01",
+        "nico": "00",
+        "descripcion": "Caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.44.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "359",
+        "pa": "0302.45",
+        "nico": "",
+        "descripcion": "Jureles (Trachurus spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "360",
+        "pa": "0302.45.01",
+        "nico": "00",
+        "descripcion": "Jureles (Trachurus spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.45.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "361",
+        "pa": "0302.46",
+        "nico": "",
+        "descripcion": "Cobias (Rachycentron canadum).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "362",
+        "pa": "0302.46.01",
+        "nico": "00",
+        "descripcion": "Cobias (Rachycentron canadum).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.46.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "363",
+        "pa": "0302.47",
+        "nico": "",
+        "descripcion": "Peces espada (Xiphias gladius).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "364",
+        "pa": "0302.47.01",
+        "nico": "00",
+        "descripcion": "Peces espada (Xiphias gladius).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.47.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "365",
+        "pa": "0302.49",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "366",
+        "pa": "0302.49.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.89.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "367",
+        "pa": "0302.5",
+        "nico": "",
+        "descripcion": "Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae, excepto los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "368",
+        "pa": "0302.51",
+        "nico": "",
+        "descripcion": "Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "369",
+        "pa": "0302.51.01",
+        "nico": "00",
+        "descripcion": "Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.51.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "370",
+        "pa": "0302.52",
+        "nico": "",
+        "descripcion": "Eglefinos (Melanogrammus aeglefinus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "371",
+        "pa": "0302.52.01",
+        "nico": "00",
+        "descripcion": "Eglefinos (Melanogrammus aeglefinus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.52.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "372",
+        "pa": "0302.53",
+        "nico": "",
+        "descripcion": "Carboneros (Pollachius virens).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "373",
+        "pa": "0302.53.01",
+        "nico": "00",
+        "descripcion": "Carboneros (Pollachius virens).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.53.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "374",
+        "pa": "0302.54",
+        "nico": "",
+        "descripcion": "Merluzas (Merluccius spp., Urophycis spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "375",
+        "pa": "0302.54.01",
+        "nico": "00",
+        "descripcion": "Merluzas (Merluccius spp., Urophycis spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.54.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "376",
+        "pa": "0302.55",
+        "nico": "",
+        "descripcion": "Abadejos de Alaska (Theragra chalcogramma).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "377",
+        "pa": "0302.55.01",
+        "nico": "00",
+        "descripcion": "Abadejos de Alaska (Theragra chalcogramma).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.55.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "378",
+        "pa": "0302.56",
+        "nico": "",
+        "descripcion": "Bacaladillas (Micromesistius poutassou, Micromesistius australis).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "379",
+        "pa": "0302.56.01",
+        "nico": "00",
+        "descripcion": "Bacaladillas (Micromesistius poutassou, Micromesistius australis).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.56.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "380",
+        "pa": "0302.59",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "381",
+        "pa": "0302.59.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.59.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "382",
+        "pa": "0302.7",
+        "nico": "",
+        "descripcion": "Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.), excepto los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "383",
+        "pa": "0302.71",
+        "nico": "",
+        "descripcion": "Tilapias (Oreochromis spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "384",
+        "pa": "0302.71.01",
+        "nico": "00",
+        "descripcion": "Tilapias (Oreochromis spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.71.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "385",
+        "pa": "0302.72",
+        "nico": "",
+        "descripcion": "Bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "386",
+        "pa": "0302.72.01",
+        "nico": "00",
+        "descripcion": "Bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.72.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "387",
+        "pa": "0302.73",
+        "nico": "",
+        "descripcion": "Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "388",
+        "pa": "0302.73.01",
+        "nico": "00",
+        "descripcion": "Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.73.01; 0302.89.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "389",
+        "pa": "0302.74",
+        "nico": "",
+        "descripcion": "Anguilas (Anguilla spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "390",
+        "pa": "0302.74.01",
+        "nico": "00",
+        "descripcion": "Anguilas (Anguilla spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.74.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "391",
+        "pa": "0302.79",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "392",
+        "pa": "0302.79.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.79.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "393",
+        "pa": "0302.8",
+        "nico": "",
+        "descripcion": "Los demás pescados, excepto los despojos comestibles de pescado de las subpartidas 0302.91 a 0302.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "394",
+        "pa": "0302.81",
+        "nico": "",
+        "descripcion": "Cazones y demás escualos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "395",
+        "pa": "0302.81.01",
+        "nico": "00",
+        "descripcion": "Cazones y demás escualos.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.81.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "396",
+        "pa": "0302.82",
+        "nico": "",
+        "descripcion": "Rayas (Rajidae).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "397",
+        "pa": "0302.82.01",
+        "nico": "00",
+        "descripcion": "Rayas (Rajidae).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.82.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "398",
+        "pa": "0302.83",
+        "nico": "",
+        "descripcion": "Austromerluzas antárticas y austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "399",
+        "pa": "0302.83.01",
+        "nico": "00",
+        "descripcion": "Austromerluzas antárticas y austromerluzas negras (merluzas negras, bacalaos de profundidad, nototenias negras) (Dissostichus spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.83.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "400",
+        "pa": "0302.84",
+        "nico": "",
+        "descripcion": "Róbalos (Dicentrarchus spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "401",
+        "pa": "0302.84.01",
+        "nico": "00",
+        "descripcion": "Róbalos (Dicentrarchus spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.84.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "402",
+        "pa": "0302.85",
+        "nico": "",
+        "descripcion": "Sargos (Doradas, Espáridos) (Sparidae).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "403",
+        "pa": "0302.85.01",
+        "nico": "00",
+        "descripcion": "Sargos (Doradas, Espáridos) (Sparidae).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.85.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "404",
+        "pa": "0302.89",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "405",
+        "pa": "0302.89.01",
+        "nico": "00",
+        "descripcion": "Totoabas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.89.01",
+        "tax_impo": "15",
+        "tax_expo": "Prohibida"
+    },
+    {
+        "id": "406",
+        "pa": "0302.89.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.89.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "407",
+        "pa": "0302.9",
+        "nico": "",
+        "descripcion": "Hígados, huevas, lechas, aletas, cabezas, colas, vejigas natatorias y demás despojos comestibles de pescado:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "408",
+        "pa": "0302.91",
+        "nico": "",
+        "descripcion": "Hígados, huevas y lechas.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "409",
+        "pa": "0302.91.01",
+        "nico": "00",
+        "descripcion": "Hígados, huevas y lechas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.90.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "410",
+        "pa": "0302.92",
+        "nico": "",
+        "descripcion": "Aletas de tiburón.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "411",
+        "pa": "0302.92.01",
+        "nico": "00",
+        "descripcion": "Aletas de tiburón.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.81.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "412",
+        "pa": "0302.99",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "413",
+        "pa": "0302.99.01",
+        "nico": "00",
+        "descripcion": "De Atunes (del género Thunnus), listados o bonitos de vientre rayado (Euthynnus (Katsuwonus) pelamis).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.31.01; 0302.32.01; 0302.33.01; 0302.34.01; 0302.35.01; 0302.36.01;0302.39.99",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "414",
+        "pa": "0302.99.02",
+        "nico": "00",
+        "descripcion": "De Merluzas (Merluccius spp., Urophycis spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.54.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "415",
+        "pa": "0302.99.03",
+        "nico": "00",
+        "descripcion": "De Totoabas.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.89.01",
+        "tax_impo": "15",
+        "tax_expo": "Prohibida"
+    },
+    {
+        "id": "416",
+        "pa": "0302.99.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0302.11.01; 0302.13.01; 0302.14.01; 0302.19.99; 0302.21.01; 0302.22.01; 0302.23.01; 0302.24.01; 0302.29.99; 0302.41.01; 0302.42.01; 0302.43.01; 0302.44.01; 0302.45.01; 0302.46.01; 0302.47.01; 0302.51.01; 0302.52.01; 0302.53.01; 0302.55.01; 0302.56.01; 0302.59.99; 0302.71.01; 0302.72.01; 0302.73.01; 0302.74.01; 0302.79.99; 0302.81.01; 0302.82.01; 0302.83.01; 0302.84.01; 0302.85.01; 0302.89.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "417",
+        "pa": "03.03",
+        "nico": "",
+        "descripcion": "Pescado congelado, excepto los filetes y demás carne de pescado de la partida 03.04.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "418",
+        "pa": "0303.1",
+        "nico": "",
+        "descripcion": "Salmónidos, excepto los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "419",
+        "pa": "0303.11",
+        "nico": "",
+        "descripcion": "Salmones rojos (Oncorhynchus nerka).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "420",
+        "pa": "0303.11.01",
+        "nico": "00",
+        "descripcion": "Salmones rojos (Oncorhynchus nerka).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.11.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "421",
+        "pa": "0303.12",
+        "nico": "",
+        "descripcion": "Los demás salmones del Pacífico (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y Oncorhynchus rhodurus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "422",
+        "pa": "0303.12.01",
+        "nico": "00",
+        "descripcion": "Los demás salmones del Pacífico (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou y Oncorhynchus rhodurus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.12.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "423",
+        "pa": "0303.13",
+        "nico": "",
+        "descripcion": "Salmones del Atlántico (Salmo salar) y salmones del Danubio (Hucho hucho).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "424",
+        "pa": "0303.13.01",
+        "nico": "00",
+        "descripcion": "Salmones del Atlántico (Salmo salar) y salmones del Danubio (Hucho hucho).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.13.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "425",
+        "pa": "0303.14",
+        "nico": "",
+        "descripcion": "Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "426",
+        "pa": "0303.14.01",
+        "nico": "00",
+        "descripcion": "Truchas (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache y Oncorhynchus chrysogaster).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.14.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "427",
+        "pa": "0303.19",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "428",
+        "pa": "0303.19.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.19.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "429",
+        "pa": "0303.2",
+        "nico": "",
+        "descripcion": "Tilapias (Oreochromis spp.), bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), anguilas (Anguilla spp.), percas del Nilo (Lates niloticus) y peces cabeza de serpiente (Channa spp.), excepto los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "430",
+        "pa": "0303.23",
+        "nico": "",
+        "descripcion": "Tilapias (Oreochromis spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "431",
+        "pa": "0303.23.01",
+        "nico": "00",
+        "descripcion": "Tilapias (Oreochromis spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.23.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "432",
+        "pa": "0303.24",
+        "nico": "",
+        "descripcion": "Bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "433",
+        "pa": "0303.24.01",
+        "nico": "00",
+        "descripcion": "Bagres o peces gato (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.24.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "434",
+        "pa": "0303.25",
+        "nico": "",
+        "descripcion": "Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "435",
+        "pa": "0303.25.01",
+        "nico": "00",
+        "descripcion": "Carpas (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.25.01; 0303.89.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "436",
+        "pa": "0303.26",
+        "nico": "",
+        "descripcion": "Anguilas (Anguilla spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "437",
+        "pa": "0303.26.01",
+        "nico": "00",
+        "descripcion": "Anguilas (Anguilla spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.26.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "438",
+        "pa": "0303.29",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "439",
+        "pa": "0303.29.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.29.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "440",
+        "pa": "0303.3",
+        "nico": "",
+        "descripcion": "Pescados planos (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae y Citharidae), excepto los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "441",
+        "pa": "0303.31",
+        "nico": "",
+        "descripcion": "Fletanes (halibut) (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "442",
+        "pa": "0303.31.01",
+        "nico": "00",
+        "descripcion": "Fletanes (halibut) (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.31.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "443",
+        "pa": "0303.32",
+        "nico": "",
+        "descripcion": "Sollas (Pleuronectes platessa).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "444",
+        "pa": "0303.32.01",
+        "nico": "00",
+        "descripcion": "Sollas (Pleuronectes platessa).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.32.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "445",
+        "pa": "0303.33",
+        "nico": "",
+        "descripcion": "Lenguados (Solea spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "446",
+        "pa": "0303.33.01",
+        "nico": "00",
+        "descripcion": "Lenguados (Solea spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.33.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "447",
+        "pa": "0303.34",
+        "nico": "",
+        "descripcion": "Rodaballos (turbots) (Psetta maxima).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "448",
+        "pa": "0303.34.01",
+        "nico": "00",
+        "descripcion": "Rodaballos (turbots) (Psetta maxima).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.34.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "449",
+        "pa": "0303.39",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "450",
+        "pa": "0303.39.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.39.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "451",
+        "pa": "0303.4",
+        "nico": "",
+        "descripcion": "Atunes (del género Thunnus), listados o bonitos de vientre rayado (Euthynnus (Katsuwonus) pelamis), excepto los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "452",
+        "pa": "0303.41",
+        "nico": "",
+        "descripcion": "Albacoras o atunes blancos (Thunnus alalunga).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "453",
+        "pa": "0303.41.01",
+        "nico": "00",
+        "descripcion": "Albacoras o atunes blancos (Thunnus alalunga).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.41.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "454",
+        "pa": "0303.42",
+        "nico": "",
+        "descripcion": "Atunes de aleta amarilla (rabiles) (Thunnus albacares).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "455",
+        "pa": "0303.42.01",
+        "nico": "00",
+        "descripcion": "Atunes de aleta amarilla (rabiles) (Thunnus albacares).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.42.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "456",
+        "pa": "0303.43",
+        "nico": "",
+        "descripcion": "Listados o bonitos de vientre rayado.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "457",
+        "pa": "0303.43.01",
+        "nico": "00",
+        "descripcion": "Listados o bonitos de vientre rayado.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.43.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "458",
+        "pa": "0303.44",
+        "nico": "",
+        "descripcion": "Patudos o atunes ojo grande (Thunnus obesus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "459",
+        "pa": "0303.44.01",
+        "nico": "00",
+        "descripcion": "Patudos o atunes ojo grande (Thunnus obesus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.44.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "460",
+        "pa": "0303.45",
+        "nico": "",
+        "descripcion": "Atunes comunes o de aleta azul, del Atlántico y del Pacífico (Thunnus thynnus, Thunnus orientalis).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "461",
+        "pa": "0303.45.01",
+        "nico": "00",
+        "descripcion": "Atunes comunes o de aleta azul, del Atlántico y del Pacífico (Thunnus thynnus, Thunnus orientalis).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.45.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "462",
+        "pa": "0303.46",
+        "nico": "",
+        "descripcion": "Atunes del sur (Thunnus maccoyii).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "463",
+        "pa": "0303.46.01",
+        "nico": "00",
+        "descripcion": "Atunes del sur (Thunnus maccoyii).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.46.01",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "464",
+        "pa": "0303.49",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "465",
+        "pa": "0303.49.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.49.99",
+        "tax_impo": "Ex.",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "466",
+        "pa": "0303.5",
+        "nico": "",
+        "descripcion": "Arenques (Clupea harengus, Clupea pallasii), anchoas (Engraulis spp.), sardinas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.), espadines (Sprattus sprattus), caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus), caballas de la India (Rastrelliger spp.), carites (Scomberomorus spp.), jureles (Trachurus spp.), pámpanos (Caranx spp.), cobias (Rachycentron canadum), palometones plateados (Pampus spp.), papardas del Pacífico (Cololabis saira), macarelas (Decapterus spp.), capelanes (Mallotus villosus), peces espada (Xiphias gladius), bacoretas orientales (Euthynnus affinis), bonitos (Sarda spp.), agujas, marlines, peces vela o picudos (Istiophoridae), excepto los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "467",
+        "pa": "0303.51",
+        "nico": "",
+        "descripcion": "Arenques (Clupea harengus, Clupea pallasii).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "468",
+        "pa": "0303.51.01",
+        "nico": "00",
+        "descripcion": "Arenques (Clupea harengus, Clupea pallasii).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.51.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "469",
+        "pa": "0303.53",
+        "nico": "",
+        "descripcion": "Sardinas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) y espadines (Sprattus sprattus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "470",
+        "pa": "0303.53.01",
+        "nico": "00",
+        "descripcion": "Sardinas (Sardina pilchardus, Sardinops spp.), sardinelas (Sardinella spp.) y espadines (Sprattus sprattus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.53.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "471",
+        "pa": "0303.54",
+        "nico": "",
+        "descripcion": "Caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "472",
+        "pa": "0303.54.01",
+        "nico": "00",
+        "descripcion": "Caballas (Scomber scombrus, Scomber australasicus, Scomber japonicus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.54.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "473",
+        "pa": "0303.55",
+        "nico": "",
+        "descripcion": "Jureles (Trachurus spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "474",
+        "pa": "0303.55.01",
+        "nico": "00",
+        "descripcion": "Jureles (Trachurus spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.55.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "475",
+        "pa": "0303.56",
+        "nico": "",
+        "descripcion": "Cobias (Rachycentron canadum).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "476",
+        "pa": "0303.56.01",
+        "nico": "00",
+        "descripcion": "Cobias (Rachycentron canadum).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.56.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "477",
+        "pa": "0303.57",
+        "nico": "",
+        "descripcion": "Peces espada (Xiphias gladius).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "478",
+        "pa": "0303.57.01",
+        "nico": "00",
+        "descripcion": "Peces espada (Xiphias gladius).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.57.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "479",
+        "pa": "0303.59",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "480",
+        "pa": "0303.59.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.89.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "481",
+        "pa": "0303.6",
+        "nico": "",
+        "descripcion": "Pescados de las familias Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae y Muraenolepididae, excepto los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "482",
+        "pa": "0303.63",
+        "nico": "",
+        "descripcion": "Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "483",
+        "pa": "0303.63.01",
+        "nico": "00",
+        "descripcion": "Bacalaos (Gadus morhua, Gadus ogac, Gadus macrocephalus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.63.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "484",
+        "pa": "0303.64",
+        "nico": "",
+        "descripcion": "Eglefinos (Melanogrammus aeglefinus).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "485",
+        "pa": "0303.64.01",
+        "nico": "00",
+        "descripcion": "Eglefinos (Melanogrammus aeglefinus).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.64.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "486",
+        "pa": "0303.65",
+        "nico": "",
+        "descripcion": "Carboneros (Pollachius virens).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "487",
+        "pa": "0303.65.01",
+        "nico": "00",
+        "descripcion": "Carboneros (Pollachius virens).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.65.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "488",
+        "pa": "0303.66",
+        "nico": "",
+        "descripcion": "Merluzas (Merluccius spp., Urophycis spp.).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "489",
+        "pa": "0303.66.01",
+        "nico": "00",
+        "descripcion": "Merluzas (Merluccius spp., Urophycis spp.).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.66.01",
+        "tax_impo": "10",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "490",
+        "pa": "0303.67",
+        "nico": "",
+        "descripcion": "Abadejos de Alaska (Theragra chalcogramma).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "491",
+        "pa": "0303.67.01",
+        "nico": "00",
+        "descripcion": "Abadejos de Alaska (Theragra chalcogramma).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.67.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "492",
+        "pa": "0303.68",
+        "nico": "",
+        "descripcion": "Bacaladillas (Micromesistius poutassou, Micromesistius australis).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "493",
+        "pa": "0303.68.01",
+        "nico": "00",
+        "descripcion": "Bacaladillas (Micromesistius poutassou, Micromesistius australis).",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.68.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "494",
+        "pa": "0303.69",
+        "nico": "",
+        "descripcion": "Los demás.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "495",
+        "pa": "0303.69.99",
+        "nico": "00",
+        "descripcion": "Los demás.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.69.99",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "496",
+        "pa": "0303.8",
+        "nico": "",
+        "descripcion": "Los demás pescados, excepto los despojos comestibles de pescado de las subpartidas 0303.91 a 0303.99:",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "497",
+        "pa": "0303.81",
+        "nico": "",
+        "descripcion": "Cazones y demás escualos.",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
+    },
+    {
+        "id": "498",
+        "pa": "0303.81.01",
+        "nico": "00",
+        "descripcion": "Cazones y demás escualos.",
+        "unidad_medida": "Kg",
+        "fraccion_correlativa": "0303.81.01",
+        "tax_impo": "15",
+        "tax_expo": "Ex."
+    },
+    {
+        "id": "499",
+        "pa": "0303.82",
+        "nico": "",
+        "descripcion": "Rayas (Rajidae).",
+        "unidad_medida": "",
+        "fraccion_correlativa": "",
+        "tax_impo": "",
+        "tax_expo": ""
     }
 ]
